@@ -1,0 +1,2 @@
+# radiografias
+modelo convolucional
